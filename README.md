@@ -126,8 +126,6 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 ![Screenshot 2025-04-19 152318](https://github.com/user-attachments/assets/61c1d6b9-a72c-4f84-8fed-8af62f5a95fd)
 
 ![lbc note 1] ![image](https://github.com/user-attachments/assets/bd5cbefb-c932-44a8-ac7d-872a26a87013)
-
-
 ![lbc note 2] ![image](https://github.com/user-attachments/assets/185fdf55-9da9-4474-aeee-bfd24f3f3d59)
 
 ## *Results*
